@@ -1,6 +1,6 @@
 # Applied Ordinary and Partial Differential Equations with Python
 
-[![Book: CC BY 4.0](https://img.shields.io/badge/book-CC%20BY%204.0-lightgrey.svg)](LICENSE-BOOK.md)
+[![Book: CC BY-NC-ND 4.0](https://img.shields.io/badge/book-CC%20BY--NC--ND%204.0-lightgrey.svg)](LICENSE-BOOK.md)
 [![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
 
 <img src="cover.png" alt="Cover of the book" width="260" align="right">
@@ -120,13 +120,15 @@ A machine-readable citation is in [CITATION.cff](CITATION.cff).
 
 ## Licence and permission
 
-The author, Stephen E. Moore, grants permission to anyone to use, copy, share, print, translate,
-adapt and redistribute the book and the programs, for teaching, learning, research or any other
-purpose, under the following licences. No further written permission is required; please give
-credit to the author.
+The author, Stephen E. Moore, grants permission to anyone to use, copy, print and share the book,
+unchanged and for non-commercial purposes such as teaching, learning and research, and to use,
+modify and redistribute the programs, under the following licences. No further written permission
+is required for these uses; please give credit to the author. Translations, adapted editions and
+commercial use of the book require the author's written permission.
 
 - **The book** (`Applied_ODE_and_PDE_with_Python.pdf`) is licensed under the
-  [Creative Commons Attribution 4.0 International Licence (CC BY 4.0)](LICENSE-BOOK.md).
+  [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Licence
+  (CC BY-NC-ND 4.0)](LICENSE-BOOK.md).
 - **The Python programs** (`code/` and `run_all.py`) are licensed under the [MIT Licence](LICENSE).
 
 ## Author
